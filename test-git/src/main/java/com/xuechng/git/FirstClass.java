@@ -14,6 +14,7 @@ public class FirstClass {
     }
 
     public int sum(int x,int y){
+        System.out.println("all right");
         return x+y;
     }
 
